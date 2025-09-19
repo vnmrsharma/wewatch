@@ -51,6 +51,7 @@ This is built with:
 - **Tailwind CSS** for styling
 - **NASA APIs** for satellite data
 - **Weather APIs** for current conditions
+(Ps: For quick Fromtend development, I used bolt.new as well initially for generating the frame)
 
 The app is designed to be super accessible and works great on both desktop and mobile devices.
 
